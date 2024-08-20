@@ -1,8 +1,12 @@
 # Hi there 👋
 </br>
 </br>
-<div style="text-align: center;">
-    <img src="img_text.png" alt=""></img>
+
+<div>
+    <img style=" display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;" src="img_text.png" alt=""></img>
 </div>
 ---
 <code>my profile </code>
@@ -25,6 +29,5 @@ exit();
 ------
 ## my __activity__
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirhoseniliw&show_icons=true&theme=dark)
-
 
 
