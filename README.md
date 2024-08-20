@@ -1,5 +1,7 @@
 # Hi there 👋
- <img src="Group 1 (1).png" alt="error"></img>
+</br>
+</br>
+ <img align="center" src="Group 1 (1).png" alt="error"></img>
 ---
 <code>my profile </code>
 ```PHP
