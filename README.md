@@ -2,14 +2,14 @@
 </br>
 </br>
 
-<div>
-    <img style=" display: block;
+<div style="text-align: center;">
+    <img style="
   margin-left: auto;
   margin-right: auto;
-  width: 50%;" src="img_text.png" alt=""></img>
+  width: 50%;" src="img_text.png" alt="not lod img !..."></img>
 </div>
 ---
-<code>my profile </code>
+<code>my profile :) </code>
 
 
 ```PHP
