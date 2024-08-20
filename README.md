@@ -1,8 +1,9 @@
 # Hi there 👋
 </br>
 </br>
-<div style=" text-align: center;">
-    <img src="img_text.png" alt=""></div>
+<div style="text-align: center;">
+    <img src="img_text.png" alt=""></img>
+</div>
 ---
 <code>my profile </code>
 ```PHP
