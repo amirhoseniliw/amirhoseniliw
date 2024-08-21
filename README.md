@@ -5,14 +5,15 @@
 <p align="center">
     <img width="80%" src="img_text.png" alt="not lod img !..."></img>
 </p>
+
 ---
 <code>my profile :) </code>
 
 
 ```PHP
-$name = 'Amirhossien Imanpur';
+$name = 'Amirhossien-Imanpur';
 $age = '<=18';
-$location = 'Iran - Tabriz ';
+$location = (Iran - Tabriz );
 exit();
 ```
 ## my __skills__
