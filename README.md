@@ -2,12 +2,9 @@
 </br>
 </br>
 
-<div style="text-align: center;">
-    <img style="
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;" src="img_text.png" alt="not lod img !..."></img>
-</div>
+<p align="center">
+    <img width="80%" src="img_text.png" alt="not lod img !..."></img>
+</p>
 ---
 <code>my profile :) </code>
 
