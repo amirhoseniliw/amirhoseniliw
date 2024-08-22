@@ -1,6 +1,3 @@
-# Hi there 👋
-</br>
-</br>
 
 <p align="center">
     <img width="80%" src="img_text.png" alt="not lod img !..."></img>
