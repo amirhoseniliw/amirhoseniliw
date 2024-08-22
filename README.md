@@ -14,15 +14,32 @@ $location = (Iran - Tabriz );
 exit();
 ```
 ## my __skills__
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<p>
+    <img width="8%" src="vscode-icons_file-type-php.png" alt="not lod img !..."></img>
+    <img width="8%" src="devicon_laravel-wordmark.png" alt="not lod img !..."></img>
+    </br>
+    <img width="5%" src="logos_html-5.png" alt="not lod img !..."></img>
+    <img width="5%" src="logos_css-3.png" alt="not lod img !..."></img>
+</p>
 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhoseniliw&hide_progress=compact)
+## app using
+
+<p>
+    <img width="8%" src="skill-icons_vscode-dark.png" alt="not lod img !..."></img>
+    <img width="8%" src="devicon_phpstorm.png" alt="not lod img !..."></img>
+    </br>
+    </br>
+     <img width="6%" src="logos_figma.png" alt="not lod img !..."></img>
+
+</p>
+
 ------
 ## my __activity__
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirhoseniliw&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhoseniliw&hide_progress=compact)
+
+</br>
+
+![amirhoseniliw GitHub stats](https://github-readme-stats.vercel.app/api?username=amirhoseniliw&show_icons=true&theme=dark)
 
 
