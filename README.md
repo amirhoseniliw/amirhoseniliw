@@ -36,10 +36,6 @@ exit();
 ------
 ## my __activity__
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhoseniliw&hide_progress=compact)
-
-</br>
-
 ![amirhoseniliw GitHub stats](https://github-readme-stats.vercel.app/api?username=amirhoseniliw&show_icons=true&theme=dark)
 
 
