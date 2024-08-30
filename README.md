@@ -13,7 +13,7 @@ $age = '<=18';
 $location = (Iran - Tabriz );
 exit();
 ```
-## my __skills__
+##  __skills__
 <p>
     <img width="8%" src="vscode-icons_file-type-php.png" alt="not lod img !..."></img>
     <img width="8%" src="devicon_laravel-wordmark.png" alt="not lod img !..."></img>
