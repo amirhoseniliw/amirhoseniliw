@@ -132,24 +132,42 @@ I care about:
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amirhoseniliw&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhoseniliw&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-</p>
-
-<p align="center">
-    <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=amirhoseniliw&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</p>
 
 ---
 
-## 📈 Contribution Activity
+## 📊 GitHub Activity
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amirhoseniliw&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph">
+    <img
+        width="49%"
+        src="https://github-readme-stats.vercel.app/api?username=amirhoseniliw&show_icons=true&theme=tokyonight&hide_border=true"
+        alt="GitHub Statistics"
+    />
+    <img
+        width="49%"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhoseniliw&layout=compact&theme=tokyonight&hide_border=true"
+        alt="Top Languages"
+    />
 </p>
+
+<p align="center">
+    <img
+        width="80%"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=amirhoseniliw&theme=tokyonight&hide_border=true"
+        alt="GitHub Contribution Streak"
+    />
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+    <img
+        width="100%"
+        src="https://github-readme-activity-graph.vercel.app/graph?username=amirhoseniliw&theme=tokyo-night&hide_border=true"
+        alt="GitHub Contribution Graph"
+    />
+</p>
+
 
 ---
 
