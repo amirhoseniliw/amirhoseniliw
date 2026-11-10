@@ -1,15 +1,19 @@
 
+<p align="center">
+    <img width="80%" src="img_text.png" alt="Amirhossien Profile">
+</p>
 
+---
 
 <h1 align="center">Hi 👋, I'm Amirhossien Imanpur</h1>
 
 <h3 align="center">
-    Developer • System Builder • Business Thinker
+    Developer • System Builder • Analytical Thinker
 </h3>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=amirhoseniliw&label=Profile%20Views&color=0d60fa&style=flat" alt="Profile Views">
-    <img src="https://img.shields.io/badge/Experience-4%2B%20Years-0d60fa?style=flat" alt="Experience">
+    <img src="https://img.shields.io/badge/Experience-4%20Years-0d60fa?style=flat" alt="Experience">
     <img src="https://img.shields.io/badge/Building-Every%20Day-success?style=flat" alt="Building Every Day">
 </p>
 
@@ -17,11 +21,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a developer with 4+ years of experience in programming, software development, and building digital solutions.
+I'm a developer with 4 years of hands-on programming experience, passionate about building software, designing systems, and solving real-world problems.
 
-I enjoy looking beyond writing code. My focus is on understanding problems, analyzing business processes, designing systems, and turning ideas into practical and scalable solutions.
+I don't just focus on writing code. I enjoy understanding how things work, analyzing problems, designing efficient solutions, and turning ideas into functional digital products.
 
-I believe good software is not just about functionality — it's about solving the right problems.
+My interests go beyond software development into business strategy, branding, marketing, and automation.
 
 ```php
 <?php
@@ -34,8 +38,8 @@ class Amirhossien
 
     public array $focus = [
         "Software Development",
-        "System Design & Architecture",
-        "Business Process Analysis",
+        "System Architecture",
+        "Business Analysis",
         "Brand Building",
         "Marketing & Growth",
         "Automation",
@@ -44,63 +48,82 @@ class Amirhossien
     public array $mindset = [
         "Think analytically",
         "Build systems, not just features",
-        "Solve problems with technology",
-        "Learn and improve every day",
+        "Solve real problems",
+        "Improve every day",
     ];
 
     public function philosophy(): string
     {
-        return "Understand the problem, design the system, build the solution.";
+        return "Understand. Analyze. Build. Improve.";
     }
 }
 ```
 
-- 🔭 Building practical web applications and business-oriented systems.
-- 🧠 Interested in system thinking, analytical problem-solving and process optimization.
-- 💻 4+ years of hands-on programming experience.
-- ⚙️ Passionate about automation, modular architecture and scalable solutions.
-- 📈 Interested in branding, marketing strategies and business development.
-- 🤖 Using AI as a development assistant to improve productivity and problem-solving.
-- 🔥 Consistently coding, learning and pushing updates to GitHub.
+- 💻 4 years of practical programming experience.
+- ⚙️ Building web applications and modular software systems.
+- 🧠 Interested in analytical thinking and problem-solving.
+- 📊 Passionate about business processes and system optimization.
+- 🚀 Interested in branding, marketing and digital business development.
+- 🤖 Using AI as a development assistant alongside my programming knowledge.
+- 🔥 Consistently coding, learning and contributing to GitHub.
 
 ---
 
-## 🧩 What I Do
+## 🚀 What I Build
+
+<p align="center">
+    <img
+        src="assets/amirhossien-skills.gif"
+        width="85%"
+        alt="Amirhossien - Developer and System Builder"
+    />
+</p>
+
+<p align="center">
+    <b>Think Beyond Code • Build Systems • Create Value</b>
+</p>
+
+---
+
+## 🧩 Areas of Interest
 
 | Field | Focus |
 |---|---|
-| Software Development | Building web applications and digital products |
-| System Building | Designing modular and maintainable systems |
-| Business Analysis | Understanding problems and optimizing workflows |
-| Automation | Reducing repetitive tasks and improving efficiency |
-| Brand Development | Building and growing digital brands |
+| Software Development | Building practical digital products |
+| System Building | Modular and scalable architectures |
+| Business Analysis | Understanding problems and workflows |
+| Automation | Optimizing repetitive processes |
+| Branding | Building and developing digital brands |
 | Marketing | Strategy, content and business growth |
-| AI-Assisted Development | Using AI to accelerate development and research |
+| AI-Assisted Development | Improving development productivity |
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
-### Programming & Development
+### Backend Development
 
 <p>
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis" />
 </p>
 
-### Development Environment & Infrastructure
+### Frontend Development
 
 <p>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,phpstorm,linux,docker,redis" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,jquery" />
+</p>
+
+### Tools & Environment
+
+<p>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,phpstorm,linux,docker" />
 </p>
 
 ### Automation & AI
 
 <p>
     <img src="https://skillicons.dev/icons?i=n8n" />
-</p>
-
-<p>
-    <img src="https://img.shields.io/badge/AI%20Assisted%20Development-Working%20Smarter-412991?style=flat&logo=openai&logoColor=white">
+    <img src="https://img.shields.io/badge/AI%20Assisted%20Development-412991?style=flat&logo=openai&logoColor=white" />
 </p>
 
 ---
@@ -124,50 +147,25 @@ class Amirhossien
 I care about:
 
 - Clean and maintainable code
-- Modular software architecture
-- Reusable components and services
-- Database structure and optimization
-- Practical business requirements
+- Modular architecture
+- Reusable services and components
+- Database design and optimization
+- Security and performance
+- Real business requirements
 - Continuous improvement
 
 ---
 
-
----
-
-## 📊 GitHub Activity
+## 📈 My GitHub Journey
 
 <p align="center">
-    <img
-        width="49%"
-        src="https://github-readme-stats.vercel.app/api?username=amirhoseniliw&show_icons=true&theme=tokyonight&hide_border=true"
-        alt="GitHub Statistics"
-    />
-    <img
-        width="49%"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhoseniliw&layout=compact&theme=tokyonight&hide_border=true"
-        alt="Top Languages"
-    />
+    <img src="https://img.shields.io/badge/Consistent%20Coding-Every%20Day-0d60fa?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Focus-Continuous%20Learning-8957e5?style=for-the-badge" />
 </p>
 
 <p align="center">
-    <img
-        width="80%"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=amirhoseniliw&theme=tokyonight&hide_border=true"
-        alt="GitHub Contribution Streak"
-    />
+    <b>Learning • Building • Improving • Repeating</b>
 </p>
-
-## 📈 Contribution Graph
-
-<p align="center">
-    <img
-        width="100%"
-        src="https://github-readme-activity-graph.vercel.app/graph?username=amirhoseniliw&theme=tokyo-night&hide_border=true"
-        alt="GitHub Contribution Graph"
-    />
-</p>
-
 
 ---
 
@@ -175,15 +173,17 @@ I care about:
 
 <p align="center">
     <a href="https://github.com/amirhoseniliw">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
     <a href="https://temiliw.ir">
-        <img src="https://img.shields.io/badge/Temiliw-0d60fa?style=for-the-badge&logo=googlechrome&logoColor=white">
+        <img src="https://img.shields.io/badge/Temiliw-0d60fa?style=for-the-badge&logo=googlechrome&logoColor=white" />
     </a>
 </p>
 
 ---
 
 <p align="center">
-    <b>Think Beyond Code. Build Systems. Create Value. 🚀</b>
+    <b>Think Beyond Code.</b>
+    <br>
+    Build Systems. Create Value. 🚀
 </p>
