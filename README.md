@@ -7,15 +7,25 @@
 
 <h1 align="center">Hi 👋, I'm Amirhossien Imanpur</h1>
 
-<h3 align="center">Full-Stack Web Developer | Laravel Developer | UI & Graphic Designer</h3>
+<h3 align="center">
+    Developer • System Builder • Business Thinker
+</h3>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=amirhoseniliw&label=Profile%20Views&color=0d60fa&style=flat" alt="Profile Views">
+    <img src="https://img.shields.io/badge/Experience-4%2B%20Years-0d60fa?style=flat" alt="Experience">
+    <img src="https://img.shields.io/badge/Building-Every%20Day-success?style=flat" alt="Building Every Day">
 </p>
 
 ---
 
 ## 👨‍💻 About Me
+
+I'm a developer with 4+ years of experience in programming, software development, and building digital solutions.
+
+I enjoy looking beyond writing code. My focus is on understanding problems, analyzing business processes, designing systems, and turning ideas into practical and scalable solutions.
+
+I believe good software is not just about functionality — it's about solving the right problems.
 
 ```php
 <?php
@@ -23,83 +33,110 @@
 class Amirhossien
 {
     public string $name = "Amirhossien Imanpur";
-    public int $age = 20;
     public string $location = "Tabriz, Iran";
+    public int $experience = 4;
 
-    public array $roles = [
-        "Full-Stack Web Developer",
-        "Laravel Developer",
-        "UI & Graphic Designer",
-    ];
-
-    public array $interests = [
-        "Web Development",
-        "Software Architecture",
+    public array $focus = [
+        "Software Development",
+        "System Design & Architecture",
+        "Business Process Analysis",
+        "Brand Building",
+        "Marketing & Growth",
         "Automation",
-        "UI/UX Design",
-        "Open Source",
     ];
 
-    public function sayHello(): string
+    public array $mindset = [
+        "Think analytically",
+        "Build systems, not just features",
+        "Solve problems with technology",
+        "Learn and improve every day",
+    ];
+
+    public function philosophy(): string
     {
-        return "Turning ideas into functional digital products 🚀";
+        return "Understand the problem, design the system, build the solution.";
     }
 }
 ```
 
-- 🔭 Working on Laravel-based web applications and modular systems.
-- 🌱 Exploring software architecture, automation and modern web technologies.
-- 💡 Interested in building scalable, clean and maintainable applications.
-- 🎨 Also passionate about graphic design and user interface design.
-- ⚡ I enjoy learning, experimenting and turning ideas into real products.
+- 🔭 Building practical web applications and business-oriented systems.
+- 🧠 Interested in system thinking, analytical problem-solving and process optimization.
+- 💻 4+ years of hands-on programming experience.
+- ⚙️ Passionate about automation, modular architecture and scalable solutions.
+- 📈 Interested in branding, marketing strategies and business development.
+- 🤖 Using AI as a development assistant to improve productivity and problem-solving.
+- 🔥 Consistently coding, learning and pushing updates to GitHub.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🧩 What I Do
 
-### Backend Development
-
-<p>
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis" />
-</p>
-
-### Frontend Development
-
-<p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,jquery" />
-</p>
-
-### Tools & Technologies
-
-<p>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,phpstorm,linux,docker,n8n" />
-</p>
-
-### Design & Creative Tools
-
-<p>
-    <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
-</p>
-
----
-
-## 💻 Development Focus
-
-| Area | Technologies |
+| Field | Focus |
 |---|---|
-| Backend | PHP, Laravel |
-| Frontend | HTML, CSS, JavaScript |
-| Database | MySQL, Redis |
-| API Development | REST API, JSON |
-| Architecture | Service Layer, Modular Architecture |
-| Design | UI/UX, Graphic Design |
-| Automation | n8n |
-| Environment | Linux, Docker |
-| Version Control | Git, GitHub |
+| Software Development | Building web applications and digital products |
+| System Building | Designing modular and maintainable systems |
+| Business Analysis | Understanding problems and optimizing workflows |
+| Automation | Reducing repetitive tasks and improving efficiency |
+| Brand Development | Building and growing digital brands |
+| Marketing | Strategy, content and business growth |
+| AI-Assisted Development | Using AI to accelerate development and research |
 
 ---
 
-## 📊 GitHub Statistics
+## 🛠️ Technologies & Tools
+
+### Programming & Development
+
+<p>
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,bootstrap,tailwind" />
+</p>
+
+### Development Environment & Infrastructure
+
+<p>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,phpstorm,linux,docker,redis" />
+</p>
+
+### Automation & AI
+
+<p>
+    <img src="https://skillicons.dev/icons?i=n8n" />
+</p>
+
+<p>
+    <img src="https://img.shields.io/badge/AI%20Assisted%20Development-Working%20Smarter-412991?style=flat&logo=openai&logoColor=white">
+</p>
+
+---
+
+## ⚙️ My Development Approach
+
+```text
+01. Understand the Problem
+          ↓
+02. Analyze Requirements
+          ↓
+03. Design the System
+          ↓
+04. Develop the Solution
+          ↓
+05. Test & Improve
+          ↓
+06. Maintain & Scale
+```
+
+I care about:
+
+- Clean and maintainable code
+- Modular software architecture
+- Reusable components and services
+- Database structure and optimization
+- Practical business requirements
+- Continuous improvement
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amirhoseniliw&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats">
@@ -112,7 +149,15 @@ class Amirhossien
 
 ---
 
-## 🌐 Connect With Me
+## 📈 Contribution Activity
+
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amirhoseniliw&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph">
+</p>
+
+---
+
+## 🌐 Connect & Explore
 
 <p align="center">
     <a href="https://github.com/amirhoseniliw">
@@ -126,5 +171,5 @@ class Amirhossien
 ---
 
 <p align="center">
-    <b>Building. Learning. Improving. 🚀</b>
+    <b>Think Beyond Code. Build Systems. Create Value. 🚀</b>
 </p>
