@@ -1,9 +1,5 @@
 
-<p align="center">
-    <img width="80%" src="img_text.png" alt="not lod img !...">
-</p>
 
----
 
 <h1 align="center">Hi 👋, I'm Amirhossien Imanpur</h1>
 
