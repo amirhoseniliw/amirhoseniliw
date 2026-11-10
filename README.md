@@ -1,9 +1,5 @@
 
-<p align="center">
-    <img width="80%" src="img_text.png" alt="Amirhossien Profile">
-</p>
 
----
 
 <h1 align="center">Hi 👋, I'm Amirhossien Imanpur</h1>
 
@@ -73,7 +69,7 @@ class Amirhossien
 
 <p align="center">
     <img
-        src="assets/amirhossien-skills.gif"
+        src="amirhossien-skills.gif"
         width="85%"
         alt="Amirhossien - Developer and System Builder"
     />
